@@ -1,6 +1,6 @@
 # course-review-with-auth
 
-- github: https://github.com/Porgramming-Hero-web-course/l2b2a4-course-review-with-auth-mahdimortuza
+- github: https://github.com/mahdimortuza/course-review-with-auth.git
 - vercel live server: https://course-review-with-auth-delta.vercel.app/
 
 - This is the server side of Course Review project. It is built to create, update, category wise sorting and reviewing courses. It has also authentication system that helps to login and registration
